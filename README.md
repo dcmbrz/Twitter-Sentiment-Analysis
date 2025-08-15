@@ -22,9 +22,6 @@ Twitter-Sentiment-Analysis/
 ├─ requirements.txt # Python dependencies
 └─ Sentiment140 dataset.zip # dataset used by the notebook
 
-shell
-Copy
-Edit
 
 > If your dataset file is kept elsewhere, update the path in the notebook’s load step.
 
@@ -40,21 +37,14 @@ python -m venv .venv
 # macOS/Linux
 python3 -m venv .venv
 source .venv/bin/activate
-2) Install dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-If Jupyter is not installed:
 
-bash
-Copy
-Edit
+2) Install dependencies
+pip install -r requirements.txt
+
+If Jupyter is not installed:
 pip install notebook
+
 3) Run the notebook
-bash
-Copy
-Edit
 jupyter notebook
 Open main.ipynb and run cells top-to-bottom.
 
