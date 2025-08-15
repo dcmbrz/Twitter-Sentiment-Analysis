@@ -14,8 +14,3 @@ Classify tweet sentiment using a clean, reproducible NLP pipeline: **data loadin
   - **Multinomial Naive Bayes** (directly on TF–IDF)
   - **Linear SVM (`LinearSVC`)** – strong baseline for sparse text
 - **Evaluation:** train/test split, accuracy, **precision/recall/F1** classification report
-
-Twitter-Sentiment-Analysis/
-├─ main.ipynb               # end-to-end pipeline (run this)
-├─ requirements.txt         # Python dependencies
-└─ Sentiment140 dataset.zip # dataset used by the notebook
