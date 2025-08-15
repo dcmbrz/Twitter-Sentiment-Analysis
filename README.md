@@ -25,3 +25,8 @@ Twitter-Sentiment-Analysis/
 ├─ main.ipynb # end-to-end pipeline (run this)
 ├─ requirements.txt # Python dependencies
 └─ Sentiment140 dataset.zip # dataset used by the notebook
+
+Twitter-Sentiment-Analysis/
+├─ main.ipynb # end-to-end pipeline (run this)
+├─ requirements.txt # Python dependencies
+└─ Sentiment140 dataset.zip # dataset used by the notebook
